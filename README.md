@@ -1,0 +1,1 @@
+# JavaScript-Ex-22
