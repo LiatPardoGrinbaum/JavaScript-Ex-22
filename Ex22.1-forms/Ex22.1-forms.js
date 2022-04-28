@@ -23,3 +23,6 @@ button.addEventListener("click", () => {
   result.innerHTML = text;
   // e.preventDefault();
 });
+
+arr = [1, 2];
+console.log(arr);
