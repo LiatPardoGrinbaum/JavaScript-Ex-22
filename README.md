@@ -1,2 +1,3 @@
 # JavaScript-Ex-22
-# Minecraft-2d-game
+- events, DOM
+- code along - snake game, tetris, multiplication table
